@@ -4,8 +4,8 @@ Pada project tim kali ini kami membuat sebuah tampilan website course yang simpl
 Website ini dibuat untuk memenuhi tugas project tim bootcamp OSI x Progate.
 Berikut anggota dalam project tim ini beserta tugasnya:
 
-Muhammad Farhan Adam (Membuat bagian navbar dan footer)
-Irfan Yadi (Membuat bagian header/beranda)
-M. Ikhsan Mubarok (Membuat bagian tentang)
-Ferri Adi Prasetya (Membuat bagian kategori)
-Syaifullah Abdul Fattah (Membuat bagian testimoni
+1. Muhammad Farhan Adam (Membuat bagian navbar dan footer)
+2. Irfan Yadi (Membuat bagian header/beranda)
+3. M. Ikhsan Mubarok (Membuat bagian tentang)
+4. Ferri Adi Prasetya (Membuat bagian kategori)
+5. Syaifullah Abdul Fattah (Membuat bagian testimoni
